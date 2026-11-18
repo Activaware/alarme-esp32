@@ -1,0 +1,9 @@
+# Segredos gerados por tools/configurar.py (NUNCA versionar)
+tools/segredos.json
+firmware/*/segredos.h
+
+# Flutter (gerados por `flutter create`)
+app_flutter/.dart_tool/
+app_flutter/build/
+app_flutter/android/
+app_flutter/ios/
